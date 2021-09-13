@@ -1,0 +1,4 @@
+﻿  ParallelCode.cpp
+C:\Users\Alexander Putilin\source\repos\ParallelCode\ParallelCode\ParallelCode.cpp(18,9): warning C4068: неизвестная прагма "opm"
+C:\Users\Alexander Putilin\source\repos\ParallelCode\ParallelCode\ParallelCode.cpp(7,33): warning C4101: d: неиспользованная локальная переменная
+  ParallelCode.vcxproj -> C:\Users\Alexander Putilin\source\repos\ParallelCode\Debug\ParallelCode.exe
